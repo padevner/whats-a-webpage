@@ -1,6 +1,8 @@
 # whats-a-webpage
 Repo of a website created by @JSG153 and @EddyBer16
 
+You can see [this webpage](https://padevner.github.io/whats-a-webpage/) in live version
+
 ## Repo History
 This webpage was started by @JSG153, then @EddyBer16 joined to the little project.
 
